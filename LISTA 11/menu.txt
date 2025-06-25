@@ -1,0 +1,5 @@
+4
+Hamburguer 10.50
+Refrigerante 5.00
+BatataFrita 7.00
+Sorvete 6.50
